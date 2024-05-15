@@ -4,3 +4,4 @@ class User:
 		self.password = password
 		self.score = score
 		self.stages_won = stages_won
+		self.a = 2
